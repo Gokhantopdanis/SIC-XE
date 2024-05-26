@@ -46,6 +46,8 @@ bu bize object koda çevirmemizde yani pass2 adımını gerçkleştiremizde yard
 <H1>Kullanıcı Ara Yüzü</H1>
 <hr>
 <p>Kullanıcı ara yüzü Tkinter ile oluşturulmuş kod çalıştırıldığında ekranda karşılaşcağınız şu şekildedir</p>
+<br>
 ![SIC-XE](https://github.com/Gokhantopdanis/SIC-XE/assets/112704372/ff9a194e-88db-43ee-a4e8-5749ba26d373)
+<br>
 <p>Input Assembly Code alanında SIC/XE mimarisine ait yazacağınız assemler koda aittir burada save butonuna basarak dosyayı input_file dosyasına kaydetme işlemi gerçekleştirebilirsiniz pass1 butonuna tıklandığında ekran yazdığınız assembler'ın etiket ve adreslerini görebileceğiniz bir text alanı vardır pass2 butonuna tıklandığında oluşan object kod çıktısını oluşmaktadır</p> 
 
