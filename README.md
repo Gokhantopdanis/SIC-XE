@@ -38,8 +38,14 @@ bu bize object koda çevirmemizde yani pass2 adımını gerçkleştiremizde yard
     <li>Sıradaki işlemler makine koduna dönüştürülmesi işlemleri gerçekletirilir.  </li>
     <li>object_code var ise mevcut metin kaydına makine kodu eklenir eğer mevcut metin kaydının uzunluğu 60 byte'ı aşıyorsa write_text_record fonksiyonu çağrılarak mevcut metin kaydı yazılır ve yeni bir metin kaydı başlatılır.</li>
     <li>text kaydının bitiminde End kaydı başlatılır ve ardından başlangıç adresi yazılır</li>
+    <li>bütün kayıtlar object_file dosyasına yazılır</li>
   </ul>
 <br>
 <br>
 <hr>
-<H1></H1>
+<H1>Kullanıcı Ara Yüzü</H1>
+<hr>
+<p>Kullanıcı ara yüzü Tkinter ile oluşturulmuş kod çalıştırıldığında ekranda karşılaşcağınız şu şekildedir</p>
+<img>
+<p>Input Assembly Code alanında SIC/XE mimarisine ait yazacağınız assemler koda aittir burada save butonuna basarak dosyayı input_file dosyasına kaydetme işlemi gerçekleştirebilirsiniz pass1 butonuna tıklandığında ekran yazdığınız assembler'ın etiket ve adreslerini görebileceğiniz bir text alanı vardır pass2 butonuna tıklandığında oluşan object kod çıktısını oluşmaktadır</p> 
+S
